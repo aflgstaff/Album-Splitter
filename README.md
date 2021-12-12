@@ -15,8 +15,6 @@ Run python script in directory that you want the have the files in
 
 # Options
 
-`--split` - required to split into mp3s
-
 `--test` - choose lowest quality youtube video to speed download speed up for testing purposes
 
 `[artist name]` - (REQUIRED TO DOWNLOAD) The artist's name
