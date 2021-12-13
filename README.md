@@ -21,3 +21,6 @@ Run python script in directory that you want the have the files in
 
 `[album name]` - (REQUIRED TO DOWNLOAD) The album's name
 
+# Example
+
+`py AlbumSplitter.py https://www.youtube.com/watch?v=Tf1DEI2lEe0 "Mick Gordon" "DOOM Eternal OST"`
